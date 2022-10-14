@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **deshapriyakhatua/deshapriyakhatua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+- :zap: I love math, programming, data science, and books
+- 🌱 I’m addicted to learning and growing every day
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
+- 📫 How to find me:
+  - :office: [LinkedIn](https://www.linkedin.com/in/deshapriya-khatua/)
+
+
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=deshapriyakhatua&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
