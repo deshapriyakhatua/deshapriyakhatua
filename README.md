@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning Android application development
 
 
-- :zap: I love math, programming and data science
-- 🌱 I’m addicted to learning 
+- :zap: I love math and programming
 
 - 📫 How to find me:
 
