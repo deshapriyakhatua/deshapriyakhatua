@@ -22,8 +22,12 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deshapriyakhatua"/>
 
+<img  src="https://cp-logo.vercel.app/leetcode/deshapriyakhatua"  alt="Leetcode Contest Rating" />
+
+![LeetCode Stats](https://leetcode.card.workers.dev/deshapriyakhatua?theme=dark&font=baloo&extension=null)
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
 
 
 <details>
