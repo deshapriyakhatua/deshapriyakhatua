@@ -36,5 +36,6 @@
 </details>
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
-       Java     JavaScript
+       Java     JavaScript  
+       
 </details>
