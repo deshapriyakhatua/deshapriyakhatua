@@ -4,10 +4,6 @@
 
 - 🔭 I’m currently working on Android Studio projects
 - 🌱 I’m currently learning Android application development
-
-
-- :zap: I love math and programming
-
 - 📫 How to find me:
 
   [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deshapriya-khatua/)
