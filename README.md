@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Spring projects
-- 🌱 I’m currently learning Java backend development
+- 🌱 Currently learning Java backend development
 - 📫 How to find me:
 
   [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deshapriya-khatua/)
